@@ -29,7 +29,7 @@ def brute_eq():
             print("There is no solution")
             break
         elif(equation == c and equation2 == f):
-            print("x = " + str(x) + " y = " + str(y)) 
+            print("x = " + str(x) + " , y = " + str(y)) 
             break
         if(x < 10):
             x += 1
