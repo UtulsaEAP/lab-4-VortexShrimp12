@@ -22,7 +22,7 @@ Use this brute force approach:
 
 Ex: If no solution is found, output:
 
-    There is no solution
+    
 
 Assume the two input equations have no more than one solution.
 
